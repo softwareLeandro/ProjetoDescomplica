@@ -1,0 +1,10 @@
+.game-cover {
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
+.game-banner {
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
